@@ -1,5 +1,5 @@
 import sys
-
+# reads more making some comments
 def read_fasta(filename):
     sequence = ''
     f = open(filename)
